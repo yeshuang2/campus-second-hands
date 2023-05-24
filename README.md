@@ -1,39 +1,80 @@
-# 校园二手交易系统
+###  给个Star星吧！以此鼓励、谢谢支持呀！！
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+# 校园二手市场
 
-#### 软件架构
-软件架构说明
+###项目运行环境
+1、jdk版本：1.8
+3、mysql数据库版本：8.0
+4、编译工具：IntelliJ IDEA 2020.1.1
+5、数据库可视化工具：Navicat Premium 15
+6、maven版本：maven3.6.3
+
+###运行步骤
+1、安装jdk1.8,配置环境变量
+
+2、安装mysql8.0,配置环境变量
+
+3、安装Navicat
+
+4、导入ershou.sql数据库文件
+
+5、安装IDEA
+
+6、导入项目concert
+
+7、运行项目
+
+访问url
+
+后台：8080  初始 可用账号 admin  123456
+
+前台：/home/index/index  
+
+初始可用账号：张三 10000/123456   李四：10001/123456
+
+## 一、介绍
+
+基于springboot的校园二手交易平台
+
+## 二、项目功能介绍
+
+### 1、后台功能介绍
+
+1、菜单管理  2、角色管理
+3、用户管理 4、日志管理
+5、数据备份 6、分类管理
+7、物品管理 8、求购物品
+9、用户管理 10、评论管理
+11、举报管理 12、公告管理
+13、网站设置 14、搜索功能
+
+### 2、前台功能介绍
+
+1、用户注册 2、用户注册 3、个人资料编辑 4、发布商品（卖）
+ 5、购买商品（买） 6、求购专区 7、发表评论 8、搜索商品
+
+## 组织架构图
 
 
-#### 安装教程
+![输入图片说明](%E5%9B%BE%E7%89%872.png)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## E-R图
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![输入图片说明](%E5%9B%BE%E7%89%871.png)
 
 
-#### 特技
+## 三、后台部分页面展示
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![输入图片说明](img_2.png)
+
+![输入图片说明](img_3.png)
+
+![输入图片说明](img_4.png)
+
+## 四、前台部分页面展示
+
+![输入图片说明](img_7.png)
+
+![输入图片说明](img_10.png)
+
+![输入图片说明](img_11.png)
