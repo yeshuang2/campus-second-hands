@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+.form-item {
+    display: table;
+    width: 25.5%;
+    height: 100%;
+    text-align: right;
+    color: #444444;
+    font-size: 1.17em;
+    line-height: 1em;
+    float: left;
+}
