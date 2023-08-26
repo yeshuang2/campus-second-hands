@@ -57,26 +57,24 @@
 
 ## 组织架构图
 
+![图片2](https://github.com/yeshuang2/campus-second-hands/assets/65081283/c4852bdc-bb80-407e-ac63-54709e49f40c)
 
-![输入图片说明](%E5%9B%BE%E7%89%872.png)
+
 
 ## E-R图
 
-![输入图片说明](%E5%9B%BE%E7%89%871.png)
+![图片1](https://github.com/yeshuang2/campus-second-hands/assets/65081283/57aad2c6-ed46-4f90-9310-36a9269a615b)
 
 
 ## 三、后台部分页面展示
 
-![输入图片说明](img_2.png)
+![img_3](https://github.com/yeshuang2/campus-second-hands/assets/65081283/15d4213b-84bf-48fd-afdb-feeeaf8ca31a)
 
-![输入图片说明](img_3.png)
-
-![输入图片说明](img_4.png)
 
 ## 四、前台部分页面展示
 
-![输入图片说明](img_7.png)
+![img_7](https://github.com/yeshuang2/campus-second-hands/assets/65081283/bfab7775-41da-408d-8608-594519742343)
 
-![输入图片说明](img_10.png)
+![img_10](https://github.com/yeshuang2/campus-second-hands/assets/65081283/b3bda6bb-7a29-43a5-9236-f463b7813ea1)
 
-![输入图片说明](img_11.png)
+
